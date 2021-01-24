@@ -1,16 +1,51 @@
-### Hi there 👋
+<h1 align="center">Hi there! im BenRed06!</h1>
+<h3 align="center">im a 14 year old dev who wants to be a pilot!</h1>
+<h3 align="center">below are some of my hobbies</h3>
+<p align="center">
+    </a>
+    <a href=title=" pilot">
+        <img src="http://icons.iconarchive.com/icons/google/noto-emoji-travel-places/1024/42586-airplane-icon.png" alt="pilot" width="40" height="40" />
+    </a>
+    <a href= title="baseball">
+        <img src="http://www.emoji.co.uk/files/emoji-one/activity-emoji-one/1682-skier.png" alt="baseball" width="40" height="40" />
+   </a>
+      <a href= title="skiing">
+        <img src="https://hotemoji.com/images/dl/3/baseball-emoji-by-google.png" alt="skiing" width="40" height="40" />
+   </a>
+<h3 align="center">below are the programming languages I know or am learning!</h3>
+<p align="center">
+    </a>
+    <a href="https://www.python.org/" title="Python">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1920px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
+   </a>
+      <a href="https://html.com/" title="html">
+        <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="40" height="40" />
+      </a>
+   
+<h3 align="center">below are the languages I WANT to learn</h3>    
 
-<!--
-**Hazza88/Hazza88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+     </a>
+    <a href="https://nodejs.org/en/" title="javascript">
+        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="javascript" width="40" height="40" />
+    </a>
+    <a href="https://devdocs.io/css/" title="CSS">
+        <img src="https://maxcdn.icons8.com/Share/icon/Logos/css31600.png" alt="CSS" width="40" height="40" />
+    </a>
+    <a href="https://swift.org/documentation/" title="swift">
+        <img src="https://www.wamatechnology.com/wp-content/uploads/2019/07/1138px-Swift_logo.svg_.png" alt="swift" width="40" height="40" />
+    </a>
+       <a href="https://www.java.com/en/" title="java">
+        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="40" height="40" />
+    </a>
+    
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+</a>
+    
+</p>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BenRed06&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs" />&nbsp;
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenRed06&layout=compact&count_private=true&theme=vue-dark" alt="BenRed06" />
+</p>
