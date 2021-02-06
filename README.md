@@ -42,23 +42,21 @@ Terminal
 Windows
 Linux
 
-<details>
+<!-- <details>
   <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#1](https://github.com/codeSTACKr/free-developer-resources/pull/1) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 2. 🗣 Commented on [#1](https://github.com/codeSTACKr/free-developer-resources/issues/1) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 3. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
 4. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 5. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
 
-</details>
+</details> -->
 
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" alt="Hazza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hazza88&show_icons=true&theme=radical" />
+  <img align="left" alt="Hazza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hazza88&show_icons=true&theme=radical&hide_border=true" />
 
 </details>
 
