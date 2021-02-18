@@ -9,7 +9,7 @@
 - 2021 Goals: Learn more about HTML/CSS/Ethical Hacking and flying
 - Fun Fact: Im a verified Discord Bot Developer and have a Competent Crew License
 
-### Connect me with:
+### Connect with me:
 
 [<img align="left" alt="Hazza.tech" width="30px" src="./website.png" />][website]
 [<img align="left" alt="Hazza | Discord" width="30px" src="./discord.png" />][discord]
