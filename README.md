@@ -6,7 +6,7 @@
 
 - I'm currently working on a Auth Discord Bot
 - I'm learning Ethical Hacking and Python
-- 2021 Goals: Learn more about HTML/CSS/Ethical Hacking and how to fly a plain for when im 16
+- 2021 Goals: Learn more about HTML/CSS/Ethical Hacking and flying
 - Fun Fact: Im a verified Discord Bot Developer and have a Competent Crew License
 
 ### Connect me with:
