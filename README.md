@@ -9,10 +9,6 @@
 - 2021 Goals: Learn more about HTML/CSS/Ethical Hacking and how to fly a plain for when im 16
 - Fun Fact: Im a verified Discord Bot Developer and have a Competent Crew License
 
-### Spotify Playing 🎧
-
-<link>
-
 ### Connect me with:
 
 [<img align="left" alt="Hazza.tech" width="30px" src="./website.png" />][website]
